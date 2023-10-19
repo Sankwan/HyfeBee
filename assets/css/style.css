@@ -398,12 +398,12 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Hero Section
+# Hero Section.  p9 is the first background page
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
   height: 60vh;
-  background: url("../img/hero-bg.jpg") center center;
+  background: url("../img/p9.jpg") center center;
   background-size: cover;
   position: relative;
   z-index: 1;
@@ -711,7 +711,7 @@ section {
 }
 
 .about .video-box {
-  background: url("../img/about-img.jpg") center center no-repeat;
+  background: url("../img/about2.jpeg") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
